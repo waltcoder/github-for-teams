@@ -3,10 +3,11 @@
 ## Criar branch
   ```git checkout -b nomeDaBranch ```
 ## Apagar branch
-- para conseguir apagar o branch tem que sair dela.
-  - comandos para trocar da branch
+Para conseguir apagar o branch tem que sair dela.
+  - Comandos para trocar da branch
     - ```git checkout nomeDaOutraBranch```
-- comando para apagar a branch
+
+Comando para apagar a branch
 - ```git branch -D nome-da-branch```
 
 ## Atualizar todas as branch's
@@ -15,5 +16,5 @@
   - ```git fetch -p```
 
 # Estudar
-[] Branch protection rules
-[] Pull Request - pr
+- [ ] Branch protection rules
+- [ ] Pull Request - pr

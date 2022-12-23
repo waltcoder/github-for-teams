@@ -8,3 +8,12 @@
     - ```git checkout nomeDaOutraBranch```
 - comando para apagar a branch
 - ```git branch -D nome-da-branch```
+
+## Atualizar todas as branch's
+  - ```git fetch```
+## Apagar as branch's não existente
+  - ```git fetch -p```
+
+# Estudar s
+[ ] Branch protection rules
+[ ] Pull Request - pr

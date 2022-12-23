@@ -14,6 +14,6 @@
 ## Apagar as branch's não existente
   - ```git fetch -p```
 
-# Estudar s
-[ ] Branch protection rules
-[ ] Pull Request - pr
+# Estudar
+[] Branch protection rules
+[] Pull Request - pr
